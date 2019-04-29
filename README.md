@@ -7,3 +7,6 @@
 <dt>Power draw</dt><dd>+30mA, -27mA (depends on used LEDs)</dd>
 <dt>Startup stabilisation</dt><dd>&lt; 6 sec</dd>
 </dl>
+
+---
+![alt text](https://raw.githubusercontent.com/charonme/heptaphasis/master/kopimi.gif "kopimi")
