@@ -1,4 +1,4 @@
-# heptaphasis
+# [heptaphasis](http://charon.sk/heptaphasis)
 ### 7-phase quadrature sine LFO for eurorack
 based on [Yusynth Quadrature VC-LFO](http://yusynth.net/Modular/EN/QUAD-LFO/index.html)
 <dl>
@@ -9,7 +9,7 @@ based on [Yusynth Quadrature VC-LFO](http://yusynth.net/Modular/EN/QUAD-LFO/inde
 <dt>Startup stabilisation</dt><dd>&lt; 6 sec</dd>
 </dl>
 
-BOM / [Mouser project](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=b96a90f5ef)
+[BOM](http://charon.sk/heptaphasis) / [Mouser project](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=b96a90f5ef)
 
 [![breadboard test](https://img.youtube.com/vi/A-SHyvcifvg/0.jpg)](https://www.youtube.com/watch?v=A-SHyvcifvg "breadboard test")
 
