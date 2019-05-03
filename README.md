@@ -1,6 +1,9 @@
 # [heptaphasis](http://charon.sk/heptaphasis)
 ### 7-phase quadrature sine LFO for eurorack
 based on [Yusynth Quadrature VC-LFO](http://yusynth.net/Modular/EN/QUAD-LFO/index.html)
+
+[Muffwiggler thread](https://www.muffwiggler.com/forum/viewtopic.php?t=215780)
+
 <dl>
 <dt>Frequency range</dt><dd>19 Hz - 0.0008 Hz (20 min)</dd>
 <dt>Output phases</dt><dd>0&deg;, 45&deg;, 90&deg;, 135&deg;, 180&deg;, 225&deg;, 270&deg;</dd>
