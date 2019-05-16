@@ -10,6 +10,7 @@ based on [Yusynth Quadrature VC-LFO](http://yusynth.net/Modular/EN/QUAD-LFO/inde
 <dt>Amplitude</dt><dd>+-5V (10Vpp)</dd>
 <dt>Power draw</dt><dd>+30mA, -27mA (depends on used LEDs)</dd>
 <dt>Startup stabilisation</dt><dd>&lt; 6 sec</dd>
+<dt>PCB size</dt><dd>100x45.2mm</dd>
 </dl>
 
 [BOM](http://charon.sk/heptaphasis/#bom) / [Mouser project](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=b96a90f5ef)
