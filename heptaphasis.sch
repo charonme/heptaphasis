@@ -22203,13 +22203,13 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 <part name="R51" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220k"/>
 <part name="R52" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5k"/>
 <part name="T9" library="nxp_60_sot457" deviceset="BC847" device=""/>
-<part name="R38" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="10"/>
-<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100n"/>
+<part name="R38" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="do not install"/>
+<part name="C21" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="do not install"/>
 <part name="P+9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device=""/>
-<part name="R39" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100k"/>
+<part name="R39" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="do not install"/>
 <part name="P-6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V-" device=""/>
 <part name="P-7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V-" device=""/>
-<part name="R56" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="2.2M"/>
+<part name="R56" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1M"/>
 <part name="P+10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device=""/>
 <part name="R53" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="22k"/>
 <part name="R24" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="330k"/>
@@ -22218,7 +22218,7 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 <part name="R26" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="680"/>
 <part name="GND24" library="SparkFun" deviceset="GND" device=""/>
 <part name="LED90" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1"/>
-<part name="T8" library="nxp_60_sot457" deviceset="BC857" device=""/>
+<part name="T8" library="nxp_60_sot457" deviceset="BC857" device="" value="do not install"/>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="330k"/>
 <part name="T1" library="nxp_60_sot457" deviceset="BC847" device=""/>
 <part name="P+12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device=""/>
@@ -22304,7 +22304,7 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 <part name="D2" library="vertical_schottky" deviceset="VERTICAL_SCHOTTKY" device=""/>
 <part name="D1" library="vertical_schottky" deviceset="VERTICAL_SCHOTTKY" device=""/>
 <part name="R27" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="2.2M"/>
-<part name="C24" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="1u"/>
+<part name="C24" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10u"/>
 </parts>
 <sheets>
 <sheet>
@@ -22369,10 +22369,10 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 </instance>
 <instance part="R44" gate="G$1" x="35.56" y="43.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="34.0614" y="39.37" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="38.862" y="39.37" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="38.862" y="41.91" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="GND2" gate="1" x="35.56" y="35.56" smashed="yes">
-<attribute name="VALUE" x="33.02" y="33.02" size="1.778" layer="96"/>
+<attribute name="VALUE" x="30.48" y="33.02" size="1.778" layer="96"/>
 </instance>
 <instance part="GND3" gate="1" x="160.02" y="30.48" smashed="yes">
 <attribute name="VALUE" x="157.48" y="27.94" size="1.778" layer="96"/>
@@ -22385,7 +22385,7 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 <attribute name="VALUE" x="129.54" y="20.32" size="1.778" layer="96"/>
 </instance>
 <instance part="R50" gate="G$1" x="132.08" y="30.48" smashed="yes" rot="R90">
-<attribute name="NAME" x="130.5814" y="26.67" size="1.778" layer="95" rot="R90"/>
+<attribute name="NAME" x="138.2014" y="26.67" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="135.382" y="26.67" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R45" gate="G$1" x="127" y="35.56" smashed="yes" rot="R90">
@@ -22491,12 +22491,12 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 <attribute name="VALUE" x="193.04" y="-165.1" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="R46" gate="G$1" x="121.92" y="40.64" smashed="yes" rot="R180">
-<attribute name="NAME" x="125.73" y="39.1414" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="125.73" y="43.942" size="1.778" layer="96" rot="R180"/>
+<attribute name="NAME" x="123.19" y="39.1414" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="123.19" y="43.942" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="R47" gate="G$1" x="30.48" y="48.26" smashed="yes" rot="R180">
-<attribute name="NAME" x="34.29" y="46.7614" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="34.29" y="51.562" size="1.778" layer="96" rot="R180"/>
+<attribute name="NAME" x="31.75" y="46.7614" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="31.75" y="51.562" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="R29" gate="G$1" x="106.68" y="50.8" smashed="yes" rot="R180">
 <attribute name="NAME" x="110.49" y="49.3014" size="1.778" layer="95" rot="R180"/>
@@ -22544,7 +22544,7 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 <attribute name="VALUE" x="43.942" y="52.07" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="P+7" gate="1" x="40.64" y="63.5" smashed="yes">
-<attribute name="VALUE" x="38.1" y="60.96" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="40.64" y="63.5" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="R30" gate="G$1" x="25.4" y="-15.24" smashed="yes" rot="R180">
 <attribute name="NAME" x="29.21" y="-16.7386" size="1.778" layer="95" rot="R180"/>
@@ -22645,7 +22645,7 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 </instance>
 <instance part="C21" gate="G$1" x="96.52" y="78.74" smashed="yes">
 <attribute name="NAME" x="98.044" y="79.121" size="1.778" layer="95"/>
-<attribute name="VALUE" x="98.044" y="74.041" size="1.778" layer="96"/>
+<attribute name="VALUE" x="92.202" y="74.549" size="1.778" layer="96"/>
 </instance>
 <instance part="P+9" gate="1" x="88.9" y="96.52" smashed="yes">
 <attribute name="VALUE" x="86.36" y="93.98" size="1.778" layer="96" rot="R90"/>
@@ -22695,7 +22695,7 @@ diameter 2.54 mm, horizontal, grid 7.62 mm</description>
 </instance>
 <instance part="T8" gate="G$1" x="88.9" y="76.2" smashed="yes" rot="MR270">
 <attribute name="NAME" x="81.28" y="76.2" size="1.778" layer="95" font="vector" rot="MR270"/>
-<attribute name="VALUE" x="83.82" y="81.28" size="1.778" layer="96" font="vector" rot="MR270"/>
+<attribute name="VALUE" x="83.82" y="83.82" size="1.778" layer="96" rot="MR270"/>
 </instance>
 <instance part="R2" gate="G$1" x="187.96" y="-88.9" smashed="yes" rot="R180">
 <attribute name="NAME" x="191.77" y="-90.3986" size="1.778" layer="95" rot="R180"/>
